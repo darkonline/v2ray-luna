@@ -1,20 +1,30 @@
 {
-  "id": "com.v2ray.luna.repo",
-  "name": "v2Ray Luna Repository",
-  "description": "Repository for v2Ray Luna — a system-level VPN client for webOS TV",
-  "icon": "https://raw.githubusercontent.com/darkonline/v2ray-luna/main/icon.png",
-  "developer": "Kreata Media",
-  "apps": [
+  "paging": {
+    "page": 1,
+    "count": 1,
+    "maxPage": 1,
+    "itemsTotal": 1
+  },
+  "packages": [
     {
       "id": "com.v2ray.luna",
-      "name": "v2Ray Luna",
-      "version": "0.1.0",
-      "icon": "https://raw.githubusercontent.com/darkonline/v2ray-luna/main/icon.png",
-      "ipkUrl": "https://raw.githubusercontent.com/darkonline/v2ray-luna/main/build/com.v2ray.luna_0.1.0_all.ipk",
-      "description": "System-level VPN client for webOS TV using Xray-core. Supports VLESS Reality, VMESS, subscription URLs, server selection, and full TUN-based routing.",
-      "category": "network",
-      "developer": "Kreata Media",
-      "screenshots": []
+      "title": "v2Ray Luna",
+      "iconUri": "https://raw.githubusercontent.com/darkonline/v2ray-luna/main/icon.png",
+      "manifest": {
+        "id": "com.v2ray.luna",
+        "version": "0.1.0",
+        "type": "web",
+        "title": "v2Ray Luna",
+        "iconUri": "https://raw.githubusercontent.com/darkonline/v2ray-luna/main/icon.png",
+        "sourceUrl": "https://github.com/darkonline/v2ray-luna",
+        "rootRequired": true,
+        "ipkUrl": "https://raw.githubusercontent.com/darkonline/v2ray-luna/main/build/com.v2ray.luna_0.1.0_all.ipk",
+        "ipkHash": {
+          "sha256": "9ab0c0ae5947b6472cf6d7860168691ebcdfd5b7fad3078578be139e9f2a2e45"
+        }
+      },
+      "shortDescription": "Системный VPN-клиент для webOS TV",
+      "fullDescriptionUrl": ""
     }
   ]
 }
