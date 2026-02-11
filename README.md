@@ -5,7 +5,6 @@ It supports VLESS Reality, VMESS, subscription URLs, server selection, and full 
 
 > ⚠️ **Important:**  
 > This application works **only on real LG webOS TVs** with Homebrew Channel installed and root access enabled.  
-> VPN functionality does **not** work in the official webOS TV Emulator (no root, no TUN support).
 
 ---
 
@@ -19,7 +18,6 @@ It supports VLESS Reality, VMESS, subscription URLs, server selection, and full 
 - Start/stop VPN from UI  
 - Real-time service logs  
 - Real-time VPN status  
-- Fully self-contained `.ipk` package  
 
 ---
 
