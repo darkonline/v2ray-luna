@@ -18,7 +18,7 @@
         "iconUri": "https://raw.githubusercontent.com/darkonline/v2ray-luna/main/icon.png",
         "sourceUrl": "https://github.com/darkonline/v2ray-luna",
         "rootRequired": true,
-        "ipkUrl": "https://raw.githubusercontent.com/darkonline/v2ray-luna/main/build/xray.vless.reality_1.0.3_aabbtt.ipk",
+        "ipkUrl": "https://raw.githubusercontent.com/darkonline/v2ray-luna/main/build/xray-fastlane.ipk",
         "ipkHash": {
           "sha256": "960860f26b59f6880c2f8bb8e8ccb87c59b0d9a9c87a95c6abaf91f6fd2b974a"
         }
