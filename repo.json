@@ -20,7 +20,7 @@
         "rootRequired": true,
         "ipkUrl": "https://raw.githubusercontent.com/darkonline/v2ray-luna/main/build/xray.vless.reality_1.0.3_aabbtt.ipk",
         "ipkHash": {
-          "sha256": "f8826b3a6435b1fb02104de9eb29df0c7e0b30011788ccb990277689edf6e7ae"
+          "sha256": "960860f26b59f6880c2f8bb8e8ccb87c59b0d9a9c87a95c6abaf91f6fd2b974a"
         }
       },
       "shortDescription": "VLESS Reality VPN client for webOS TV with FastLane servers",
