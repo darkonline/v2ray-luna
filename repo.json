@@ -18,9 +18,9 @@
         "iconUri": "https://raw.githubusercontent.com/darkonline/v2ray-luna/main/icon.png",
         "sourceUrl": "https://github.com/darkonline/v2ray-luna",
         "rootRequired": true,
-        "ipkUrl": "https://raw.githubusercontent.com/darkonline/v2ray-luna/main/build/com.v2ray.luna_0.1.0_arm.ipk",
+        "ipkUrl": "https://raw.githubusercontent.com/darkonline/v2ray-luna/main/build/com.v2ray.luna_1.0.0_armv7l.ipk",
         "ipkHash": {
-          "sha256": "3077f1f6476de514172440beb45647fdf748755547757672865aff5d7e0819dc"
+          "sha256": "98e7616a8621ab030dd1cba9824df878a73e6ecb905a06422de46725955205f1"
         }
       },
       "shortDescription": "Системный VPN-клиент для webOS TV",
