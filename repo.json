@@ -7,14 +7,14 @@
   },
   "packages": [
     {
-      "id": "com.v2ray.luna",
-      "title": "v2Ray Luna",
+      "id": "xray.vless.reality",
+      "title": "Xray Vless Reality",
       "iconUri": "https://raw.githubusercontent.com/darkonline/v2ray-luna/main/icon.png",
       "manifest": {
-        "id": "com.v2ray.luna",
-        "version": "0.1.0",
-        "type": "web",
-        "title": "v2Ray Luna",
+        "id": "xray.vless.reality",
+        "version": "1.0.3",
+        "type": "native",
+        "title": "Xray Vless Reality",
         "iconUri": "https://raw.githubusercontent.com/darkonline/v2ray-luna/main/icon.png",
         "sourceUrl": "https://github.com/darkonline/v2ray-luna",
         "rootRequired": true,
@@ -23,7 +23,7 @@
           "sha256": "ff82a2fa209ee03654a788c4bd99f1d897e30de7e8bba6b101ce84007fe11748"
         }
       },
-      "shortDescription": "Системный VPN-клиент для webOS TV",
+      "shortDescription": "VLESS Reality VPN client for webOS TV",
       "fullDescriptionUrl": ""
     }
   ]
