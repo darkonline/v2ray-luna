@@ -7,23 +7,23 @@
   },
   "packages": [
     {
-      "id": "xray.vless.reality",
-      "title": "Xray Vless Reality",
+      "id": "com.v2ray.luna",
+      "title": "v2Ray Luna",
       "iconUri": "https://raw.githubusercontent.com/darkonline/v2ray-luna/main/icon.png",
       "manifest": {
-        "id": "xray.vless.reality",
-        "version": "1.0.3",
-        "type": "native",
-        "title": "Xray Vless Reality",
+        "id": "com.v2ray.luna",
+        "version": "1.0.1",
+        "type": "web",
+        "title": "v2Ray Luna",
         "iconUri": "https://raw.githubusercontent.com/darkonline/v2ray-luna/main/icon.png",
         "sourceUrl": "https://github.com/darkonline/v2ray-luna",
         "rootRequired": true,
         "ipkUrl": "https://raw.githubusercontent.com/darkonline/v2ray-luna/main/build/xray.vless.reality_1.0.3_all.ipk",
         "ipkHash": {
-          "sha256": "99366fd2cbbf6c0e4b6e4f1eab9cb8989ec63be827042ace84cdbbe96089a204"
+          "sha256": "001422704fff921e1b074fc395efaf342b6797e872e6d98e236537231aa6625a"
         }
       },
-      "shortDescription": "VLESS Reality VPN client for webOS TV with FastLane servers",
+      "shortDescription": "xray vpn client",
       "fullDescriptionUrl": ""
     }
   ]
