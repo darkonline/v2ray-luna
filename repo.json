@@ -13,7 +13,7 @@
       "manifest": {
         "id": "com.v2ray.luna",
         "version": "1.0.0",
-        "type": "web",
+        "type": "native",
         "title": "v2Ray Luna",
         "iconUri": "https://raw.githubusercontent.com/darkonline/v2ray-luna/main/icon.png",
         "sourceUrl": "https://github.com/darkonline/v2ray-luna",
